@@ -19,4 +19,3 @@ Hi there! I'm Bassel Alaa, a Mobile Developer who loves coding. Here's a bit abo
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/bassel-alaa-9287b321b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [LinkedIn](your-linkedin-url)
