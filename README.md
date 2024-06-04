@@ -16,7 +16,7 @@ Hi there! I'm Bassel Alaa, a Mobile Developer who loves coding. Here's a bit abo
 
 ## 📈 GitHub Stats
 ![Bthloo](https://github-readme-stats.vercel.app/api?username=Bthloo&show_icons=true&theme=radical)
-![Bthloo](https://github-readme-streak-stats.herokuapp.com/?user=Bthloo&&theme=react&&hide_border=true)
+![Bthloo](https://github-readme-streak-stats.herokuapp.com/?user=Bthloo&&theme=radical&&hide_border=false&show_icons=true)
 
 ## 📫 Connect with Me
 
