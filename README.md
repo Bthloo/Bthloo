@@ -4,7 +4,7 @@ Hi there! I'm Bassel Alaa, a Mobile Developer who loves coding. Here's a bit abo
 
 ## 🛠️ Skills and Tools
 ### Mobile Development
-- **Flutter**: Dart, APIs, Firebase, Hive, BloC (Cubit), Clean Architecture, MVVM
+- **Flutter**: Dart, APIs, Firebase, Hive, BloC (Cubit), Google Maps APIs, Clean Architecture, MVVM
 - **iOS Native**: Swift, UIKit, APIs, MVC
 
 ### Web Development
