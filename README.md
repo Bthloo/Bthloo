@@ -4,12 +4,17 @@ Hi there! I'm Bassel Alaa, a Mobile Developer who loves coding. Here's a bit abo
 
 ## 🛠️ Skills and Tools
 - Dart
+- Swift
 - Flutter
+- iOS Native
 - APIs
 - Firebase
 - BloC
 - Kotlin
-- Swift
+- Python
+- php
+- C#
+- C++
 - HTML
 - CSS
 - JS
