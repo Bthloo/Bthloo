@@ -3,21 +3,23 @@
 Hi there! I'm Bassel Alaa, a Mobile Developer who loves coding. Here's a bit about me:
 
 ## 🛠️ Skills and Tools
-- Dart
-- Swift
-- Flutter
-- iOS Native
-- APIs
-- Firebase
-- BloC
-- Kotlin
-- Python
-- php
-- C#
-- C++
-- HTML
-- CSS
-- JS
+### Mobile Development
+- **Flutter**: Dart, Firebase, BloC (Cubit)
+- **iOS Native**: Swift, UIKit, APIs
+
+### Web Development
+- **Frontend**: HTML, CSS, JS
+
+### General Programming
+- **Languages**: Dart, Swift, Kotlin, Python, C#, C++, PHP, JS
+
+### Tools & Frameworks
+- **Native**: iOS
+- **Cross-Platform**: Flutter
+- **State Management**: BloC (Cubit)
+- **APIs**: RESTful APIs
+- **Databases**: Firebase, Hive
+
 
 ## 📈 GitHub Stats
 ![Bthloo](https://github-readme-stats.vercel.app/api?username=Bthloo&show_icons=true&theme=radical)
